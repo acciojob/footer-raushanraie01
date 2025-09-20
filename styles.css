@@ -19,9 +19,12 @@ body{
 	margin-bottom:40px;
 	
 }
-.media-icons{
+.media-icons {
 	display:flex;
 	gap:5px;
+}
+.media-icons a{
+	border:none;
 }
 .logo_name{
 	
